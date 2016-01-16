@@ -1,3 +1,8 @@
+# 新增特性
+<img src="https://github.com/JunjianHu/coreplot/blob/master/QQ20160107-0.png"/>
+<img src="https://github.com/JunjianHu/coreplot/blob/master/QQ20160107-1.png"/>
+
+
 # Introduction
 
 Core Plot is a 2D plotting framework for Mac OS X and iOS. It is highly customizable and capable of drawing many types of plots. See the  [Example Graphs](https://github.com/core-plot/core-plot/wiki/Example-Graphs) wiki page and the [example applications](https://github.com/core-plot/core-plot/tree/master/examples) for examples of some of its capabilities.
